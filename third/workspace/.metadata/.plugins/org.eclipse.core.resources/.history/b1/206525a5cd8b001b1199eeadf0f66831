@@ -1,0 +1,5 @@
+package com.ltts.Detailinfo.model;
+
+public class Team {
+
+}
