@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Mahavir\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\Microservices\Eureka Server\microservices\.metadata\.plugins\org.eclipse.jdt.core
